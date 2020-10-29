@@ -1,0 +1,14 @@
+Alabama, Average Temperature, January-December
+Units: Degrees Fahrenheit
+Base Period: 1960-2010
+Missing: -99
+Date,Value,Anomaly
+201112,63.8,1.1
+201212,64.9,2.2
+201312,62.6,-0.1
+201412,62.0,-0.7
+201512,64.6,1.9
+201612,65.3,2.6
+201712,65.0,2.3
+201812,64.5,1.8
+201912,65.3,2.6
